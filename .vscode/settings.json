@@ -1,0 +1,12 @@
+{
+    "emmet.showSuggestionsAsSnippets": true,
+    "files.associations": {
+          "*html": "html", 
+           "*njk": "html"
+    },
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none",
+    "liveServer.settings.port": 5502,
+}
